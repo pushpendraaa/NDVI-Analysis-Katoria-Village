@@ -1,4 +1,4 @@
-# NDVI_analysis_Katoria
+# NDVI Analysis Katoria
 The project aims to turn wasteland into green land in a village located in Katoria using time series analysis of NDVI (Normalized Difference Vegetation Index) using GEE (Google Earth Engine). The project aims to address the problem of land degradation and desertification in the area due to unsustainable land use practices, deforestation, and climate change. These factors have resulted in the degradation of the ecosystem services and the loss of livelihoods for the local communities.
 The solution proposed is to use remote sensing technology and time series analysis of NDVI to monitor vegetation dynamics and to identify the areas with the potential to regenerate and restore vegetation cover. The analysis will be conducted using GEE, a cloud-based platform that allows for the analysis of large volumes of satellite imagery and geospatial data.
 
