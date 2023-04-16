@@ -14,3 +14,14 @@ The project will provide valuable information to support the restoration of vege
 
 In conclusion, the use of time series analysis of NDVI using GEE is a promising approach to address the problem of land degradation and desertification in the area and to promote the restoration of vegetation cover. The project will provide valuable insights into the potential for sustainable land management practices and contribute to the conservation of the environment and the improvement of local livelihoods.
 ![image](https://user-images.githubusercontent.com/89564501/232314976-28185666-4213-4707-9d77-199163d5cd89.png)
+
+1.   **May:** This is the time for land preparation, such as plowing, harrowing, leveling, and bunding.
+2.   **June:** Rice seeds are sown during this month. Farmers usually start with early-maturing varieties in lowland areas and then move on to the main crop.
+3.   **July:** This month is critical for the growth of rice plants, as it is the time when monsoon rains arrive in most parts of India. Farmers need to ensure that the fields are adequately flooded and the young plants are not submerged.
+4.   **August:** The rice plants start to tiller (produce side shoots) during this month, which helps to increase the number of panicles (flower clusters) and eventually the number of grains per panicle.
+5.   **September:** This is the month when the rice plants start to flower. Farmers need to be vigilant to prevent damage from pests and diseases.
+6.   **October:** The rice plants start to form grains during this month. Farmers need to ensure that the fields are kept flooded and that there is enough sunlight for the grains to mature.
+7.   **November:** This is the month when the rice plants start to mature, and the grains start to turn yellow. Farmers need to monitor the fields and start preparing for harvest.
+8.   **December:** This is the time for harvesting the rice crop. Farmers usually harvest the crop manually or with the help of machines. Once the rice is harvested, it is dried, threshed, and stored for later use.
+9.   **January:** After the harvest, farmers usually prepare the fields for the next crop by plowing, harrowing, and applying fertilizers
+
