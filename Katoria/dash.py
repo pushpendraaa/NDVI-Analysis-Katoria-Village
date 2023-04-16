@@ -132,7 +132,7 @@ if selected == "Interactive Data Analysis":
         except Exception as e:
             print(e)
 if selected == "Insights":
-    image = Image.open('crop.png')
+    image = Image.open('Katoria/crop.png')
     st.image(image, caption='Crop Calendar')
     with header_project:
         st.subheader("Crop Calendar")
