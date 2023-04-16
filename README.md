@@ -1,6 +1,7 @@
 # NDVI Analysis Katoria
 The project aims to turn wasteland into green land in a village located in Katoria using time series analysis of NDVI (Normalized Difference Vegetation Index) using GEE (Google Earth Engine). The project aims to address the problem of land degradation and desertification in the area due to unsustainable land use practices, deforestation, and climate change. These factors have resulted in the degradation of the ecosystem services and the loss of livelihoods for the local communities.
 The solution proposed is to use remote sensing technology and time series analysis of NDVI to monitor vegetation dynamics and to identify the areas with the potential to regenerate and restore vegetation cover. The analysis will be conducted using GEE, a cloud-based platform that allows for the analysis of large volumes of satellite imagery and geospatial data.
+![image](https://user-images.githubusercontent.com/89564501/232315507-e37d382a-e6d1-4e00-baa7-6a2b3153f7a8.png)
 
 The NDVI is a commonly used remote sensing index that quantifies the vegetation greenness and health based on the reflectance of the red and near-infrared wavelengths of the electromagnetic spectrum. NDVI values range from -1 to 1, with higher values indicating healthier vegetation cover. The time series analysis of NDVI will be used to assess the changes in vegetation cover over time, identify trends and patterns, and to map the areas with potential for restoration.
 The project will involve the following steps:
