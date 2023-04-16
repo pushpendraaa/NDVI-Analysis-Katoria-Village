@@ -4,3 +4,4 @@ plotly-express
 numpy
 pandas
 chart-studio
+pillow
