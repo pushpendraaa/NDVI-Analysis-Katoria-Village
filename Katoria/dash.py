@@ -19,9 +19,9 @@ st.markdown(
 
 st.markdown('\n')
 
-with open("styles.css", "r") as source_style:
- st.markdown(f"<style>{source_style.read()}</style>", 
-             unsafe_allow_html = True)
+# with open("styles.css", "r") as source_style:
+#  st.markdown(f"<style>{source_style.read()}</style>", 
+#              unsafe_allow_html = True)
 header_project = st.container()
 data_collection = st.container()
 data_analysis = st.container()
