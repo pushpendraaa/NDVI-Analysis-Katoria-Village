@@ -29,7 +29,7 @@ data_analysis = st.container()
 
 #add a sidebar
 
-df = pd.read_csv("Katoria.csv")
+df = pd.read_csv("Katoria/Katoria.csv")
 
 with st.sidebar:
     selected = option_menu(
