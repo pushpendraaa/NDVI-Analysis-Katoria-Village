@@ -12,6 +12,7 @@ The project will involve the following steps:
 3. Mapping and visualization: The results of the analysis will be mapped and visualized using GEE's interactive mapping tools to identify the areas with the highest potential for restoration and to communicate the results to the local communities and stakeholders.
 
 The project will provide valuable information to support the restoration of vegetation cover in the area, which will contribute to the conservation of ecosystem services, improve the livelihoods of local communities, and mitigate the impacts of climate change. The project will also demonstrate the potential of remote sensing technology and cloud-based platforms such as GEE to support sustainable land management practices and environmental conservation efforts.
+![image](https://user-images.githubusercontent.com/89564501/232315640-650340eb-6978-4410-afd4-ee8f6bcdc9d7.png)
 
 In conclusion, the use of time series analysis of NDVI using GEE is a promising approach to address the problem of land degradation and desertification in the area and to promote the restoration of vegetation cover. The project will provide valuable insights into the potential for sustainable land management practices and contribute to the conservation of the environment and the improvement of local livelihoods.
 ![image](https://user-images.githubusercontent.com/89564501/232314976-28185666-4213-4707-9d77-199163d5cd89.png)
